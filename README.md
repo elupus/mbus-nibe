@@ -1,3 +1,3 @@
-Nibe Modbus RTU to TCP Gatweay
+Nibe Modbus RTU to TCP Gateway
 ==============================
 
