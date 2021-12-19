@@ -1,0 +1,3 @@
+[submodule "m-bus"]
+	path = m-bus
+	url = https://github.com/rtlabs-com/m-bus.git
